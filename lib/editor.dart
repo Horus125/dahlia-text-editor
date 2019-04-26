@@ -6,7 +6,7 @@ class TextEditorApp extends StatelessWidget {
     return MaterialApp(
       title: 'Text Editor',
       theme: ThemeData(
-        primarySwatch: Colors.amber,
+        primarySwatch: Colors.blue,
       ),
       home: TextEditor(),
     );
