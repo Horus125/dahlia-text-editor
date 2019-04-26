@@ -1,2 +1,2 @@
-# dahlia-text-editor
+# petal-text-editor
 text editor for dahliaOS
