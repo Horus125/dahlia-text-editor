@@ -4,7 +4,7 @@ class TextEditorApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Text Editor',
+      title: 'Stem Text Editor',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
