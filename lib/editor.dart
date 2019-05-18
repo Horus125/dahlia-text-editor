@@ -15,7 +15,7 @@ class TextEditorApp extends StatelessWidget {
 
 class TextEditor extends StatefulWidget {
 
-  final String title="Text Editor";
+  final String title="Stem Text Editor";
 
   @override
   _TextEditorState createState() => _TextEditorState();
